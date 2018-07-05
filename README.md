@@ -1,8 +1,5 @@
 #          Zuana         
-### Welcome to Zuana, we are 
-### currently being a ROBLOX
-### group fullfilling everyone's
-### needs. Join now!
+### Welcome to Zuana, we are currently being a ROBLOX group fullfilling everyone's needs. Join now!
 
 ## Zuana is using the following:
 > Discord
