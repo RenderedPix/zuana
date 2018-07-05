@@ -6,9 +6,13 @@
 
 ## Zuana is using the following:
 > Discord
+
 > Trello
+
 > Guilded
+
 > ROBLOX
+
 
 # Ally Requests
 - Your group must be a company.
@@ -19,8 +23,11 @@
 
 # Links
 > [Join Our Discord Server!](/zuana/redirect/discord)
+
 > [Vist our Trello Session Board!](/zuana/redirect/trello/session)
+
 > [Join our ROBLOX group!](/zuana/redirect/roblox/group)
+
 > [Visit our Hotel!](/zuana/redirect/roblox/game)
 
 
